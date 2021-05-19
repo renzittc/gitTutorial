@@ -1,6 +1,10 @@
 This is a sample text file
 File Edit Update 
 some new code changes
+<<<<<<< HEAD
 updating remote repo
+=======
+updating remote repo bitbucket
+>>>>>>> ef02252df338a5676d8791bba3241b24d6014868
 
 
